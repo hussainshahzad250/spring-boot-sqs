@@ -4,7 +4,7 @@ cloud:
       static: ap-south-1
       auto: false
     credentials:
-      access-key: AKIARGODPHJ4BUA4QDVG
-      secret-key: 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
+      access-key: 
+      secret-key: 
     end-point:
-      uri: https://sqs.ap-south-1.amazonaws.com/082551192184/test_queue
+      uri: 
